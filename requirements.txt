@@ -1,0 +1,12 @@
+streamlit>=1.44,<2
+requests>=2.32,<3
+numpy>=1.26,<3
+PyMuPDF>=1.24,<2
+Pillow>=10,<12
+PaddleOCR>=2.8,<3
+SudachiPy>=0.6,<1
+SudachiDict-core>=20250129
+sentence-transformers>=3.0,<4
+qdrant-client>=1.9,<2
+transformers>=4.46,<5
+torch>=2.2,<3
