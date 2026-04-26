@@ -3,4 +3,6 @@ __pycache__/
 .pytest_cache/
 .env
 data/index/
-data/pdf
+data/pdfs/*.pdf
+*.sqlite3
+*.pyc
